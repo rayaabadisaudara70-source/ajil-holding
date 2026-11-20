@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Logo AJIL.JR Mini Holding">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12305E"/>
+      <stop offset="1" stop-color="#061530"/>
+    </linearGradient>
+    <linearGradient id="em" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E9CE72"/>
+      <stop offset="1" stop-color="#B8892B"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="url(#lg)" stroke="#C9A227" stroke-width="2"/>
+  <path d="M32 9l15 6v14.5c0 9.5-6.2 15.4-15 19-8.8-3.6-15-9.5-15-19V15z"
+        fill="none" stroke="url(#em)" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="32" y="34" text-anchor="middle" font-family="Georgia,'Times New Roman',serif"
+        font-size="16" font-weight="700" fill="url(#em)" letter-spacing="0.5">AJ</text>
+  <path d="M26 41h12" stroke="#C9A227" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="32" cy="46.5" r="1.5" fill="#C9A227"/>
+</svg>
